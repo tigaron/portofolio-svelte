@@ -4,11 +4,18 @@
 
 	let steps = [
 		{
-			name: 'Skeleton Store',
+			name: 'T-Shirt Store - CMS',
 			icon: 'fa-solid fa-cart-shopping',
-			href: '#store',
+			href: 'https://store-admin.fourleaves.studio/',
 			content:
-				'<p>Skeleton Store is a simple e-commerce store created with <strong class="text-violet-400">Sveltekit, Stripe API, and Skeleton UI with Tailwind CSS!</strong> Stripe API is used to allow for secure checkouts and handle all transactions.</p>'
+				'<p>T-Shirt Store CMS is a simple e-commerce store dashboard and content management system created with <strong class="text-violet-400">Next.js, TailwindCSS, Prisma, MySQL, and Stripe API!</strong> Stripe API is used to allow for secure checkouts and handle all transactions. To login, use email "<em>test@fourleaves.studio</em>" and password "<em>password</em>".</p>'
+		},
+		{
+			name: 'T-Shirt Store',
+			icon: 'fa-solid fa-cart-shopping',
+			href: 'https://store-front.fourleaves.studio/',
+			content:
+				'<p>T-Shirt Store is a simple e-commerce store frontend created with <strong class="text-violet-400">Next.js and TailwindCSS!</strong> It consumes data from T-Shirt Store - CMS APIs.</p>'
 		},
 		{
 			name: 'Ultimate Todos',
@@ -17,13 +24,6 @@
 			content:
 				'<p>Ultimate Todos is a Full Stack <strong class="text-violet-400">Sveltekit and Firebase</strong> CRUD application that allows a user to login, manage a tidy and efficacious todo list, and persist this information across devices.</p>'
 		},
-		{
-			name: 'Reddit Clone',
-			icon: 'fa-solid fa-diagram-project',
-			href: '#reddit',
-			content:
-				'<p>The Reddit clone is a <strong class="text-violet-400">Next.js, TailwindCSS, Redis, Prisma, and MySQL</strong> web application with similar functionality as Reddit that allows a user to create post, comment, and interact with each other.</p>'
-		}
 	];
 
 	let abouts = [

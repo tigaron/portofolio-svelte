@@ -8,7 +8,7 @@
 			icon: 'fa-solid fa-cart-shopping',
 			href: 'https://store-admin.fourleaves.studio/',
 			content:
-				'<p>T-Shirt Store CMS is a simple e-commerce store dashboard and content management system created with <strong class="text-violet-400">Next.js, TailwindCSS, Prisma, MySQL, and Stripe API!</strong> Stripe API is used to allow for secure checkouts and handle all transactions. To login, use email "<em>test@fourleaves.studio</em>" and password "<em>password</em>".</p>'
+				'<p>T-Shirt Store CMS is a simple e-commerce store dashboard and content management system created with <strong class="text-violet-400">Next.js, TailwindCSS, Prisma, MySQL, and Stripe API!</strong> Stripe API is used to allow for secure checkouts and handle all transactions. To login, you can use email "<em>test@fourleaves.studio</em>" and password "<em>password</em>".</p>'
 		},
 		{
 			name: 'T-Shirt Store',
@@ -22,7 +22,7 @@
 			icon: 'fa-solid fa-list-check',
 			href: 'https://todos.fourleaves.studio/',
 			content:
-				'<p>Simple Todos is a Full Stack <strong class="text-violet-400">Sveltekit and Firebase</strong> CRUD application that allows a user to login, manage a tidy and efficacious todo list, and persist this information across devices.</p>'
+				'<p>Simple Todos is a Full Stack <strong class="text-violet-400">Sveltekit and Firebase</strong> CRUD application that allows a user to login, manage a tidy and efficacious todo list, and persist this information across devices. To login, you can use email "<em>test@fourleaves.studio</em>" and password "<em>password</em>".</p>'
 		},
 	];
 

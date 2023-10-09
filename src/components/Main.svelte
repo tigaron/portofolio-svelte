@@ -18,11 +18,11 @@
 				'<p>T-Shirt Store is a simple e-commerce store frontend created with <strong class="text-violet-400">Next.js and TailwindCSS!</strong> It consumes data from T-Shirt Store - CMS APIs.</p>'
 		},
 		{
-			name: 'Ultimate Todos',
+			name: 'Simple Todos',
 			icon: 'fa-solid fa-list-check',
-			href: '#todos',
+			href: 'https://todos.fourleaves.studio/',
 			content:
-				'<p>Ultimate Todos is a Full Stack <strong class="text-violet-400">Sveltekit and Firebase</strong> CRUD application that allows a user to login, manage a tidy and efficacious todo list, and persist this information across devices.</p>'
+				'<p>Simple Todos is a Full Stack <strong class="text-violet-400">Sveltekit and Firebase</strong> CRUD application that allows a user to login, manage a tidy and efficacious todo list, and persist this information across devices.</p>'
 		},
 	];
 

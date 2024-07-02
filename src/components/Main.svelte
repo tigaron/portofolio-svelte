@@ -4,6 +4,27 @@
 
 	let steps = [
 		{
+			name: 'Acedia',
+			icon: 'fa-solid fa-comments',
+			href: 'https://acedia.fourleaves.studio/',
+			content:
+				'<p>Acedia is a web front end app of Discord clone using <strong class="text-violet-400">Next.js</strong>. It consumes data from a <strong class="text-violet-400">Nest.js</strong> Back-End API using <strong class="text-violet-400">GraphQL</strong>. To test it, you can use email "<em>test@fourleaves.studio</em>" and password "<em>password</em>".</p>'
+		},
+		{
+			name: 'Manga Scraper API',
+			icon: 'fa-solid fa-bookmark',
+			href: 'https://manga-scraper.hostinger.fourleaves.studio/swagger/index.html',
+			content:
+				'<p>It is an API that provides a list of webtoons and mangas from various sources. It is created using <strong class="text-violet-400">Go, Echo, Prisma, and OpenSearch</strong> for the REST API and <strong class="text-violet-400">Go-Rod, Go-Cron, and Kafka</strong> for the scraper worker.</p>'
+		},
+		{
+			name: 'Manga Reader',
+			icon: 'fa-solid fa-bookmark',
+			href: 'https://manga-reader.fourleaves.studio/',
+			content:
+				'<p>Manga Reader is a web application that allows users to read manga online. It is created using <strong class="text-violet-400">Next.js and TailwindCSS</strong>. It consumes data from Manga Scraper API.</p>'
+		},
+		{
 			name: 'T-Shirt Store - CMS',
 			icon: 'fa-solid fa-cart-shopping',
 			href: 'https://store-admin.fourleaves.studio/',
@@ -55,14 +76,12 @@
 				<br />Software <span class="poppins text-violet-400">Developer</span>
 			</h2>
 			<p class="text-base sm:text-lg md:text-xl">
-				I'm a passionate software developer with a knack for solving complex problems and a love for
-				clean, efficient code. With over 3 years of experience, I've delivered impactful solutions
-				using <span class="text-violet-400">JavaScript, TypeScript, and Go</span>.
+				I'm a passionate software developer with a knack for solving complex problems with over 3 years of experience.
+				I've delivered impactful solutions using <span class="text-violet-400">Go and TypeScript</span>.
 			</p>
 			<p class="text-base sm:text-lg md:text-xl">
-				My expertise spans from crafting responsive front-end interfaces to optimizing
-				high-performance back-end systems. I thrive on collaborating with cross-functional teams to
-				turn innovative ideas into reality.
+				I always strive to automate tasks and activities whenever possible, saving time and avoiding repetitive work.
+				Currently, I'm focused on learning more about automating application deployment to Kubernetes environments.
 			</p>
 			<p class="text-base sm:text-lg md:text-xl">
 				Let's connect and discuss how we can drive innovation together.
